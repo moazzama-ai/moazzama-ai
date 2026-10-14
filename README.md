@@ -1,35 +1,49 @@
+Hi, I’m Moazzama Khan 👋
 
-Hi there, I’m Moazzama Khan 👋
+Software Developer Intern | R&D | Data Science & AI/ML
 
-Software Developer Intern | R&D | Data Scientist
+I’m a BCA final-year student passionate about software development, artificial intelligence, machine learning, and data-driven problem-solving.
 
-💻 Currently working at Phitech Labs in Software Development and Research & Development.
+💼 Currently working at Phitech Labs, contributing to software development and exploring AI-powered solutions through Research & Development.
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, Data Science, and building practical software solutions.
+* 🔭 Exploring AI-powered recruitment systems and ATS automation.
+* 🧠 Learning and building with Python, Data Science, and Machine Learning.
+* 🚀 Interested in transforming real-world problems into practical technology solutions.
+* 🌱 Continuously improving my development, analytical, and research skills.
 
 🛠️ Technical Skills
 
-* Programming: Python, Java, C, C++
-* Data Science: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
-* Development: Git, GitHub, VS Code
-* Interests: AI/ML, Recruitment Automation, Intelligent Applications
+Programming Languages
+
+Data Science & AI/ML
+
+Tools & Development
 
 🚀 Featured Projects
 
-* Pravaas — Highway Trust Engine: A platform designed to help travellers discover trusted highway stops.
-* AI Resume Analyzer: Exploring AI-powered resume analysis and career recommendations.
-* AI-Powered Recruitment: Researching intelligent recruitment workflows and ATS automation.
+1. Pravaas — Highway Trust Engine
+
+* A platform designed to help travellers discover trusted highway stops.
+* Focus: stop discovery, amenities, and trust-oriented recommendations.
+
+2. AI Resume Analyzer & Career Recommendation
+
+* An AI-focused project exploring resume analysis and career recommendations.
+
+3. AI-Powered Recruitment & ATS Research
+
+* Exploring AI-assisted recruitment workflows, candidate screening, and automation opportunities.
 
 🎯 Current Focus
 
-* Exploring AI applications in recruitment and staffing.
-* Developing software development and research skills.
-* Building practical projects using Python and AI/ML.
+* Building practical software development projects.
+* Exploring AI/ML applications in recruitment and staffing.
+* Improving my understanding of system design, automation, and data-driven solutions.
 
-🤝 Let’s Connect
+🤝 Connect With Me
 
 * GitHub: @moazzama-ai
 
 ⸻
 
-Learning, building, and innovating — one project at a time.
+⭐ Build. Learn. Research. Innovate.
